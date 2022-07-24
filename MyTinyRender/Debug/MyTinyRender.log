@@ -1,0 +1,58 @@
+﻿  main.cpp
+E:\TinyRender\MyTinyRender\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+E:\TinyRender\MyTinyRender\main.cpp(70,1): warning C4305: “=”: 从“double”到“float”截断
+E:\TinyRender\MyTinyRender\main.cpp(71,1): warning C4305: “=”: 从“double”到“float”截断
+E:\TinyRender\MyTinyRender\main.cpp(72,1): warning C4305: “=”: 从“double”到“float”截断
+E:\TinyRender\MyTinyRender\main.cpp(73,1): warning C4305: “=”: 从“double”到“float”截断
+E:\TinyRender\MyTinyRender\main.cpp(122,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(122,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(173,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(173,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(214,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(214,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(219,1): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(244,1): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(319,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\TinyRender\MyTinyRender\main.cpp(327,67): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\TinyRender\MyTinyRender\main.cpp(327,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  MyTinyRender.vcxproj -> E:\TinyRender\MyTinyRender\Debug\MyTinyRender.exe

@@ -1,0 +1,67 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31332.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///e:/tinyrender/mytinyrender/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "328fe3dd58335ea7116a804ed73729a018994e1727c5960f0e31fa845aa3fa33"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/tinyrender/mytinyrender/model.h"
+          },
+          "hashes": {
+            "sha-256": "5d7c34d6ac1b1753bb7af98a82e15d53f80e3d6649cbaa4782e7037720004294"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/tinyrender/mytinyrender/geometry.h"
+          },
+          "hashes": {
+            "sha-256": "3648be4304cd0966f976ce608a17dec07ba2ef44193d2bd84b4fd4fb4053c547"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/tinyrender/mytinyrender/tgaimage.h"
+          },
+          "hashes": {
+            "sha-256": "ef4e96388f666fe59e5071929302b8607f1061a8e98034f79d14e3e37ba809dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/tinyrender/mytinyrender/our_gl.h"
+          },
+          "hashes": {
+            "sha-256": "681c5a7f3a79c4c5cd43bde203734c19a7f2038062eff76449cc84f40604d9ab"
+          }
+        }
+      ]
+    }
+  ]
+}

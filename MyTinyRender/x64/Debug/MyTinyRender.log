@@ -1,0 +1,20 @@
+﻿  geometry.cpp
+  main.cpp
+E:\TinyRender\MyTinyRender\our_gl.h(10,53): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+E:\TinyRender\MyTinyRender\our_gl.h(10,31): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+E:\TinyRender\MyTinyRender\main.cpp(53,48): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  model.cpp
+E:\TinyRender\MyTinyRender\model.cpp(57,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\TinyRender\MyTinyRender\model.cpp(61,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\TinyRender\MyTinyRender\model.cpp(80,67): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+E:\TinyRender\MyTinyRender\model.cpp(80,39): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  our_gl.cpp
+E:\TinyRender\MyTinyRender\our_gl.h(10,53): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+E:\TinyRender\MyTinyRender\our_gl.h(10,31): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  tgaimage.cpp
+  正在生成代码...
+  MyTinyRender.vcxproj -> E:\TinyRender\MyTinyRender\x64\Debug\MyTinyRender.exe
